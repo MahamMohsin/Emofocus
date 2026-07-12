@@ -4,8 +4,6 @@ A deep learning system that monitors student engagement during study sessions
 by classifying facial emotions through a live webcam feed. Built as a semester 
 project for Deep Learning (2026).
 
-**Group:** Maham Mohsin · Jawairia Hammad · Huzaila Asif
-
 ---
 
 ## What It Does
